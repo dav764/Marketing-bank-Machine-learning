@@ -11,7 +11,8 @@ démographiques et de son historique de contacts avec la banque. Cela aidera la
 banque à optimiser ses efforts marketing en ciblant les clients les plus susceptibles de 
 souscrire, ce qui peut augmenter le taux de conversion et améliorer l'efficacité de la 
 campagne.
-Lien de téléchargement de la base de données: Bank Marketing (kaggle.com)
+
+Lien de téléchargement de la base de données: [Bank Marketing (kaggle.com)](https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing/data)
 [Moro et al., 2014] S. Moro, P. Cortez et P. Rita. A Data-Driven Approach to Predict the 
 Success of Bank Telemarketing. Decision Support Systems, sous presse, 
 http://dx.doi.org/10.1016/j.dss.2014.03.001
